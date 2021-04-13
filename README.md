@@ -1,12 +1,2 @@
 # Hi👋 I'm Eddie Lin.
-📫 If have some question about my project, you could send email to `eddievim@foxmail.com`.
-
-<!--
-**eddieVim/eddievim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 If you have any questions about my project, please email me at `eddievim@foxmail.com`.
