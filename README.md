@@ -1,4 +1,3 @@
 ## hi, I'm eddie lin.
-### Normal human.
-### $$$
+###A normal human.
 <br/>
