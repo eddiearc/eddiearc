@@ -1,4 +1,4 @@
-I'm eddie, a programming enthusiast.
+## I'm eddie, a programming enthusiast.
 
 Interested in interesting code, but can't seem to find the direction...
 
