@@ -1,3 +1,3 @@
 ## I'm eddie, a programming enthusiast.
 
-[my blog](https://notion-next-five-blond-45.vercel.app/)
+[my blog](https://qvt5ucs4pl.feishu.cn/wiki/CbXCwAPTiinTd2kUPrhcmzGgn9f)
